@@ -1,6 +1,6 @@
 ### Hola, Soy Joaquín - FullStack Web Developer en progreso %.. 👋
 
-Porfolio(50%...En Progreso)]()
+Porfolio: 50%...En Progreso
 [![Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/joaquínmussi/)
 
 ## Soy un Estudiante, Amante de la Tecnología, Desarrollador, y Técnico Infrormático!!
