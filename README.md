@@ -1,4 +1,4 @@
-### Hola, Soy Joaquín - FullStack Web Developer en progreso %.. 👋
+### Hola, Soy Joaquín - FullStack JS Developer en progreso %.. 👋
 
 Porfolio: 50%...En Progreso
 
