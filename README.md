@@ -11,8 +11,8 @@ Porfolio: 50%...En Progreso
 - 🎮📺 En mis tiempos libres (que son pocos jaja) me gusta jugar CSGO y mirar Series
 
 ### Contactame!
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />
+<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />
 
 <br />
 
