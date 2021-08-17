@@ -2,7 +2,7 @@
 
 Porfolio: 50%...En Progreso
 
-## Soy un Estudiante, Amante de la Tecnología, Desarrollador, y Técnico Infrormático!!
+## Soy un Estudiante, Amante de la Tecnología, Desarrollador, y Técnico Informático!!
 
 - 📙 Estudio Desarrollo Web de forma Autodidacta a mi tiempo y forma!
 - 📚🤓 Intento aprender todos los días algo nuevo para mantenerme en constante aprendizaje.
