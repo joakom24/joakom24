@@ -7,7 +7,7 @@
 - 📙 Estudio Desarrollo Web de forma Autodidacta a mi tiempo y forma!
 - 📚🤓 Intento aprender todos los días algo nuevo para mantenerme en constante aprendizaje.
 - 💻🔧 Actualmente trabajo como Técnico Informático mientras me formo como Developer!
-- 😪 Estudié 2 años Ingeniería en Sistemas pero por falta de costancia y tiempo tuve que abandonar.
+- 😪 Estudié 2 años Ingeniería en Sistemas pero tuve que abandonar.
 - 🎮📺 En mis tiempos libres (que son pocos jaja) me gusta jugar CSGO y mirar Series
 
 ### Contactame!
