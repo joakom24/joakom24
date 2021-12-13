@@ -7,8 +7,8 @@
 - 📙 Estudio Desarrollo Web de forma Autodidacta a mi tiempo y forma!
 - 📚🤓 Intento aprender todos los días algo nuevo para mantenerme en constante aprendizaje.
 - 💻🔧 Actualmente trabajo como Técnico Informático mientras me formo como Developer!
-- 😪 Estudié 2 años Ingeniería en Sistemas pero tuve que abandonar.
-- 🎮📺 En mis tiempos libres (que son pocos jaja) me gusta jugar CSGO y mirar Series
+- 😪 Estudié 2 años Ingeniería en Sistemas.
+- 🎮📺 En mis tiempos libres me gusta jugar y mirar Series
 
 ### Contactame!
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
@@ -33,5 +33,4 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 [linkedin]: https://linkedin.com/in/joaquínmussi
-[instagram]: https://www.instagram.com/joakoo_mussi/
 [gmail]: joakoomussi@gmail.com
