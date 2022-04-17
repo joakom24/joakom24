@@ -6,7 +6,7 @@
 
 - 📙 Estudio Desarrollo Web de forma Autodidacta a mi tiempo y forma!
 - 📚🤓 Intento aprender todos los días algo nuevo para mantenerme en constante aprendizaje.
-- 💻🔧 Actualmente trabajo como Técnico Informático mientras me formo como Developer!
+- 💻🔧 Actualmente trabajo como Frontend Developer mientras me desarrollo como MernStack Developer!
 - 😪 Estudié 2 años Ingeniería en Sistemas.
 - 🎮📺 En mis tiempos libres me gusta jugar y mirar Series
 
