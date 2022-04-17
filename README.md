@@ -11,7 +11,7 @@
 - 🎮📺 En mis tiempos libres me gusta jugar y mirar Series
 
 ###  Contacto:
-<img align="left" width="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white": https://www.linkedin.com/in/joaquínmussi/
+<img align="left" width="26px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />: https://www.linkedin.com/in/joaquínmussi/
 Email: joakoomussi@gmail.com
 
 
