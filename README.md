@@ -1,4 +1,4 @@
-### Hola, Soy Joaquín - FullStack JS Developer en progreso %.. 👋
+### Hola, Soy Joaquín - MernStack Developer en progreso %.. 👋
 
 
 
