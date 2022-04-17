@@ -11,8 +11,8 @@
 - 🎮📺 En mis tiempos libres me gusta jugar y mirar Series
 
 ###  Contacto:
-<img align="left" width="66px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="joakoomussi@gmail.com"/>
-<img align="left" width="66px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" to="https://www.linkedin.com/in/joaquínmussi/"/>
+<img align="left" width="66px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>: joakoomussi@gmail.com
+<img align="left" width="66px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>: https://www.linkedin.com/in/joaquínmussi/
 
 <br />
 
