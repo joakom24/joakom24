@@ -28,4 +28,4 @@
 <br />
 ### Contactame!
 <img align="left" href="https://linkedin.com/in/joaquínmussi" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-Email: <a href="joakoomussi@gmail.com":/>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
